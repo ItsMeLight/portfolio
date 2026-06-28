@@ -25,7 +25,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "eslint": "^8.57.1",
-    "eslint-config-next": "14.2.15",
+    "eslint-config-next": "^16.2.9",
     "express": "^4.21.1",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
