@@ -99,7 +99,7 @@ export default function About() {
 
         <div className="mt-12 grid gap-12 lg:grid-cols-2 lg:items-start">
           <div className="relative mx-auto h-80 w-full max-w-md overflow-hidden rounded-2xl border border-border lg:mx-0">
-            <Image src="/images/aboutMe1.png" alt={profile.name} fill className="object-cover" />
+            <Image src="/images/aboutme1.png" alt={profile.name} fill className="object-cover" />
           </div>
 
           <div>
