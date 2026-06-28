@@ -108,3 +108,4 @@ src/
 server/           Optional Express API (uses Supabase service role key)
 supabase/         SQL schema to run in Supabase
 ```
+ 
