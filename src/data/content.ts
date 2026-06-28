@@ -64,13 +64,13 @@ export const skillCategories = [
 
 export const skillLevels = [
   { name: "PHP", value: 40 },
-  { name: "MySQL", value: 60 },
-  { name: "Flutter", value: 80 },
-  { name: "JavaScript", value: 70 },
-  { name: "Python", value: 85 },
-  { name: "Networking", value: 80 },
-  { name: "C#", value: 85 },
-  { name: "Java", value: 85 },
+  { name: "MySQL", value: 50 },
+  { name: "Flutter", value: 60 },
+  { name: "JavaScript", value: 60 },
+  { name: "Python", value:70 },
+  { name: "Networking", value: 75 },
+  { name: "C#", value: 70 },
+  { name: "Java", value: 50 },
 ];
 
 export const projects = [
