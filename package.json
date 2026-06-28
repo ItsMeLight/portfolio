@@ -24,7 +24,7 @@
     "autoprefixer": "^10.4.20",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "eslint": "^8.57.1",
+    "eslint": "^9.0.0",
     "eslint-config-next": "^16.2.9",
     "express": "^4.21.1",
     "postcss": "^8.4.47",
