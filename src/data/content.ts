@@ -204,21 +204,23 @@ export const experience = [
 ];
 
 export const certificates = [
-  { title: "Certificate 1", image: "/certificates/CyberCert.png" },
-  { title: "Certificate 2", image: "/certificates/CapstoneCert.png" },
-  { title: "Certificate 3", image: "/certificates/Picture1.png" },
-  { title: "Certificate 4", image: "/certificates/Picture2.png" },
-  { title: "Certificate 5", image: "/certificates/Picture3.png" },
-  { title: "Certificate 6", image: "/certificates/Picture4.png" },
-  { title: "Certificate 7", image: "/certificates/Picture5.png" },
-  { title: "Certificate 8", image: "/certificates/Picture6.png" },
-  { title: "Certificate 9", image: "/certificates/Picture7.png" },
-  { title: "Certificate 10", image: "/certificates/Picture8.png" },
-  { title: "Certificate 11", image: "/certificates/Picture9.png" },
-  { title: "Certificate 12", image: "/certificates/Picture10.png" },
-  { title: "Certificate 13", image: "/certificates/Picture11.png" },
-
-
+  { title: "AI IBM", image: "/certificates/AI_IBM.png" },
+  { title: "Cybersecurity", image: "/certificates/CyberCert.png" },
+  { title: "Capstone", image: "/certificates/CapstoneCert.png" },
+  { title: "Cybersecurity Fundamentals", image: "/certificates/CybersecFundamentals.png" },
+  { title: "JavaScript", image: "/certificates/javascript.png" },
+  { title: "Certificate 1", image: "/certificates/Picture1.png" },
+  { title: "Certificate 2", image: "/certificates/Picture2.png" },
+  { title: "Certificate 3", image: "/certificates/Picture3.png" },
+  { title: "Certificate 4", image: "/certificates/Picture4.png" },
+  { title: "Certificate 5", image: "/certificates/Picture5.png" },
+  { title: "Certificate 6", image: "/certificates/Picture6.png" },
+  { title: "Certificate 7", image: "/certificates/Picture7.png" },
+  { title: "Certificate 8", image: "/certificates/Picture8.png" },
+  { title: "Certificate 9", image: "/certificates/Picture9.png" },
+  { title: "Certificate 10", image: "/certificates/Picture10.png" },
+  { title: "Certificate 11", image: "/certificates/Picture11.png" },
+  { title: "SQL Injection", image: "/certificates/SQL Injection.png" },
 ];
 
 export const navLinks = [
