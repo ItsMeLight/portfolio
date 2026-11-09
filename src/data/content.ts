@@ -221,6 +221,8 @@ export const certificates = [
   { title: "Certificate 10", image: "/certificates/Picture10.png" },
   { title: "Certificate 11", image: "/certificates/Picture11.png" },
   { title: "SQL Injection", image: "/certificates/SQL Injection.png" },
+  { title: "Python", image: "/certificates/it-specialist-python.png" },
+  { title: "Cisco-Cybersecurity", image: "/certificates/Cisco-Cybersec.png" },
 ];
 
 export const navLinks = [
