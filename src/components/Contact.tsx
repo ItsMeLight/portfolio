@@ -87,7 +87,7 @@ export default function Contact() {
               <ContactRow
                 icon={<Linkedin size={18} />}
                 label="LinkedIn"
-                value={profile.socials.linkedin.replace("https://", "")}
+                value={profile.socials.linkedin.replace("https://www.linkedin.com/in/christian-asuncion-40a10a38b/", "")}
               />
             </div>
 
