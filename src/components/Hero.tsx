@@ -64,7 +64,7 @@ export default function Hero() {
           <div className="absolute inset-4 rounded-full bg-accent/10 blur-2xl" />
           <div className="relative h-[88%] w-[88%] overflow-hidden rounded-full border-2 border-accent shadow-glow">
             <Image
-              src="/images/profile2.png"
+              src="/images/MHS00283.png"
               alt={profile.name}
               fill
               className="object-cover"
